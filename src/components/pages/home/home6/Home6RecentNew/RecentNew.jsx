@@ -2,8 +2,8 @@ import React from 'react'
 
 export default function RecentNew() {
   return (
-    <div className="container">
-      <div className="row">
+    <div className="container my-4">
+      <div className="row py-5">
         <h4>Recent news</h4>
         <div className="col-md-3">
           <div className="card p-0">
